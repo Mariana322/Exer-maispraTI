@@ -1,3 +1,6 @@
+// 1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
+// utilizando uma estrutura de controle if.
+
 // Importa a biblioteca 'prompt-sync' para permitir entrada de dados pelo console
 const prompt = require('prompt-sync')(); 
 
